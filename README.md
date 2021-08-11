@@ -31,6 +31,7 @@
 <a href="https://www.linkedin.com/in/brunoss18/" target="_blank"><img src="https://img.shields.io/badge/-Bruno%20Soares-6633cc?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"></a>
  
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoss18&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoss18&layout=compact&langs_count=7&theme=white"/>
+
 
 </div>
