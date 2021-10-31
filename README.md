@@ -13,11 +13,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="github" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png" alt="bootstrap" width="40" height="40" style="max-width:100%;"></img>
-
-#### Learning 💡
-
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_reactjs_icon_130205.png" alt="React" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40" style="max-width:100%;"></img>
+
+
+<!-- #### Learning 💡 -->
+
 
 
 
