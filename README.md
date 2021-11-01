@@ -1,10 +1,14 @@
-## Heyy! 👋🏽
+<!-- ## Heyy! 👋🏽 -->
 
-### I'm Bruno Soares 👨🏿‍💻
+<!-- ### I'm Bruno Soares 👨🏿‍💻
+ -->
+<div>
+    <a href="https://github.com/brunoss18" style="display: flex">
+    <img sytle="display: inline_block" height="150em" src="https://github-readme-stats.vercel.app/api?username=brunoss18&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+    <img sytle="display: inline_block" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoss18&layout=compact&langs_count=7&theme=buefy"/>
+</div>
+ 
 
-
-- 📚 System Analysis and Development.
-- 📍 Brazil, São Paulo.
  
  
 #### My Skills 😉
@@ -20,9 +24,8 @@
 <!-- #### Learning 💡 -->
 
 
-
-
-
+- 📚 System Analysis and Development.
+- 📍 Brazil, São Paulo.
 
 #### Social Networks 👇🏽
 
@@ -31,8 +34,3 @@
    <a href="mailto:brunoss.contato@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-brunoss.contato@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white" target="_blank"></a> 
 <a href="https://www.linkedin.com/in/brunoss18/" target="_blank"><img src="https://img.shields.io/badge/-Bruno%20Soares-6633cc?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"></a>
 
-<div>
-    <a href="https://github.com/brunoss18" style="display: flex">
-    <img sytle="display: inline_block" height="150em" src="https://github-readme-stats.vercel.app/api?username=brunoss18&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-    <img sytle="display: inline_block" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoss18&layout=compact&langs_count=7&theme=buefy"/>
-</div>
