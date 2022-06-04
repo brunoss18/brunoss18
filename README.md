@@ -23,7 +23,7 @@
 
 <!-- #### Learning 💡 -->
 
-
+- 🥰 Front-End Developer.
 - 📚 System Analysis and Development.
 - 📍 Brazil, São Paulo.
 
