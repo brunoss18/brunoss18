@@ -1,39 +1,80 @@
-<!-- ## Heyy! 👋🏽 -->
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="3500px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
-<!-- ### I'm Bruno Soares 👨🏿‍💻
- -->
-<div>
-    <a href="https://github.com/brunoss18" style="display: flex">
-    <img sytle="display: inline_block" height="150em" src="https://github-readme-stats.vercel.app/api?username=brunoss18&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img sytle="display: inline_block" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoss18&layout=compact&langs_count=7&theme=dark"/>
-</div>
- 
+## Hi there 👋, I'm Bruno Soares
 
- 
- 
-#### My Skills 😉
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_reactjs_icon_130205.png" alt="React" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png" alt="bootstrap" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="github" width="40" height="40" style="max-width:100%;"></img>
+### I'm a brazilian Front End Developer passionate about technologies!
+
+##### I had my first contact with technology when I was 13 years old, since then I am completely passionate about technology. At the age of 15 I started providing T.I technical support service for companies in my city in which I managed +3 fixed customers. A while later I received a proposal to be a teacher at an educational institution in my city, there I gave Computer Science classes , Entrepreneurship, Consumer Education, Environment for +500 students. Today I'm a Front-End Developer with knowledge in JavaScript, ReactJS, Bootstrap, HTML5, CSS3.
+<br />
 
 
 
 
-<!-- #### Learning 💡 -->
-
-- 💻 Front-End Developer.
-- 📚 System Analysis and Development.
+- 🔭 I’m currently working on **Frontend developer.**
+- 📚 I'm currently studying System Analysis and Development in Anhembi Morumbi University.
+- 💬 Ask me about **ReactJS, JavaScript.**
+- 📫 How to reach me: brunoss.contato@gmail.com
 - 📍 Brazil, São Paulo.
 
-#### Social Networks 👇🏽
+##
+<br />
+<br />
+
+<div align="center">
+  <a href="https://github.com/brunoss18/github-readme-stats"><img height="165em" alt="Bruno Soares's Github Stats" src="https://github-readme-stats.vercel.app/api?username=brunoss18&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0D1117" /></a>
+  <a href="https://github.com/brunoss18/github-readme-stats"><img height="165em" alt="Bruno Soaress's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoss18&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117"/>
+  </a>
+  
+</div>
+
+<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=vschagas&theme=react)](https://git.io/streak-stats) -->
 
 
- <!-- <a href="https://www.instagram.com/0/" target="_blank"><img src="https://img.shields.io/badge/-Bruno%20Soares-6633cc?style=flat-square&logo=instagram&logoColor=white" target="_aablanaak"></a> -->
-   <a href="mailto:brunoss.contato@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-brunoss.contato@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white" target="_blank"></a> 
-<a href="https://www.linkedin.com/in/brunoss18/" target="_blank"><img src="https://img.shields.io/badge/-Bruno%20Soares-6633cc?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"></a>
+<br />
+<br />
+
+## Languages and Tools
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+
+
+<br />
+<br />
+<div align="center">
+	
+## Would you like to find me?
+	
+<div align="center">
+  <!-- <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
+  <a href="https://www.instagram.com/brunodev_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <!-- <a href="https://discord" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
+  <a href="mailto:brunoss.contatO@gmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=b"></a>
+  <a href="https://www.linkedin.com/in/brunoss18/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+</div>
+
+
+## ❤ Views and Followers
+<div align="center">
+	<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+		<img src="https://komarev.com/ghpvc/?username=brunoss18">
+	</a>
+	<a href="https://github.com/brunoss18tab=followers"><img src="https://img.shields.io/github/followers/brunoss18?label=Followers&style=social" 			alt="GitHub Badge"></a>
+</div> 
+</div>
+
+
 
 ![Snake animation](https://github.com/brunoss18/brunoss18/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
