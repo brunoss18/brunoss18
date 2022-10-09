@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="3500px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
+
+<img src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif"  min-width="300px" max-width="350px" width="350px" align="right" alt="pessoa programando em um computador.">
 
 ## Hi there 👋, I'm Bruno Soares
 
