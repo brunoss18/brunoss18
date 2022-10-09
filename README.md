@@ -1,5 +1,5 @@
 
-<img src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif"  min-width="300px" max-width="400px" width="400px" align="right" alt="pessoa programando em um computador.">
+<img  src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif"  min-width="150px" max-width="200px" width="200px"  align="right" alt="pessoa programando em um computador.">
 
 ## Hi there 👋, I'm Bruno Soares
 
