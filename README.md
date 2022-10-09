@@ -29,7 +29,7 @@
   
 </div>
 
-<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=vschagas&theme=react)](https://git.io/streak-stats) -->
+
 
 
 <br />
