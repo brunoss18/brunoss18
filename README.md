@@ -1,8 +1,8 @@
 
-<img  src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" min-width="150" max-width="300" width="300px"  align="right" alt="pessoa programando em um computador.">
+
 
 ## Hi there 👋, I'm Bruno Soares
-
+<img  src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" min-width="150" max-width="300" width="300px"  align="right" alt="pessoa programando em um computador.">
 
 ### I'm a brazilian Front End Developer passionate about technologies!
 
