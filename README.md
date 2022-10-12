@@ -12,7 +12,7 @@
 
 
 
-- 🔭 I’m currently working on **Frontend developer.**
+- 🔭 I’m currently working on **Front-End developer.**
 - 📚 I'm currently **studying System Analysis and Development in Anhembi Morumbi University**.
 - 💬 Ask me about **ReactJS, JavaScript.**
 - 📫 How to reach me: brunoss.contato@gmail.com
