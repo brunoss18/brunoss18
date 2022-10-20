@@ -2,14 +2,14 @@
 
 
 ## Hi there 👋, I'm Bruno Soares
-<img  src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" min-width="150"  width="200px"  align="right" alt=" homem programando em um computador.">
+
 
 ### I'm a brazilian Front End Developer passionate about technologies!
 
 ##### I had my first contact with technology when I was 13 years old, since then I am completely passionate about technology. At the age of 15 I started providing T.I technical support service for companies in my city in which I managed +3 fixed customers. A while later I received a proposal to be a teacher at an educational institution in my city, there I gave Computer Science classes , Entrepreneurship, Consumer Education, Environment for +500 students. Today I'm a Front-End Developer with knowledge in JavaScript, ReactJS, Bootstrap, HTML5, CSS3.
 <br />
 
-
+<img  src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" min-width="200"   width="290px"   align="right" alt=" homem programando em um computador.">
 
 
 - 🔭 I’m currently working on **Front-End developer.**
