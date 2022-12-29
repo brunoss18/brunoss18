@@ -6,7 +6,9 @@
 
 ### I'm a brazilian Developer passionate about technologies!
 
-<img  src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" min-width="200"   width="280px"   align="right" alt=" homem programando em um computador.">
+
+
+
 
 I had my first contact with technology when I was 13 years old, since then I am completely passionate about technology. At the age of 15 I started providing T.I technical support service for companies in my city in which I managed +3 fixed customers. A while later I received a proposal to be a teacher at an educational institution in my city, there I gave Computer Science classes , Entrepreneurship, Consumer Education, Environment for +500 students. Today I'm a Developer with knowledge in JavaScript, ReactJS, NodeJS, ExpressJS, Mongodb, Bootstrap, HTML5, CSS3, PHP, Laravel.
 <br />
