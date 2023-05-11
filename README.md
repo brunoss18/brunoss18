@@ -1,7 +1,7 @@
 
 
 
-## Hi there 👋, I'm Bruno Soares
+## Hi there 👋
 
 
 ### I'm a brazilian Developer passionate about technologies!
