@@ -80,7 +80,7 @@ I had my first contact with technology when I was 13 years old, since then I am 
 
 
 
-![Snake animation](https://github.com/brunoss18/brunoss18/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
