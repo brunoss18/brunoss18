@@ -28,7 +28,7 @@ I had my first contact with technology when I was 13 years old, since then I am 
 
 <div align="center">
 
-  <a href="https://github.com/brunoss18/github-readme-stats"><img height="165em" alt="Bruno Soares's Github Stats" src="https://github-readme-stats.vercel.app/api?username=brunoss18&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0D1117" /></a>
+
   <a href="https://github.com/brunoss18/github-readme-stats"><img height="165em" alt="Bruno Soaress's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoss18&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117"/>
   </a>
   
@@ -69,13 +69,8 @@ I had my first contact with technology when I was 13 years old, since then I am 
 </div>
 
 
-##  Views and Followers ❤
-<div align="center">
-	<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-		<img src="https://komarev.com/ghpvc/?username=brunoss18">
-	</a>
-	<a href="https://github.com/brunoss18tab=followers"><img src="https://img.shields.io/github/followers/brunoss18?label=Followers&style=social" 			alt="GitHub Badge"></a>
-</div> 
+
+
 </div>
 
 
